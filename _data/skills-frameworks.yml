@@ -5,29 +5,32 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
-  weight: 5
-
-- name: AngularJS
+- name: Image Segmentation
   weight: 3
 
-- name: React
-  weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: Object detection
   weight: 3
 
-- name: Django
-  weight: 1
+- name: Image Classification
+  weight: 3
 
-- name: Spring
+- name: NLP
+  weight: 3
+
+- name: MLOps(MLFlow)
   weight: 2
 
-- name: Rails
-  weight: 4
+- name: Inferential Statistics
+  weight: 2
+
+- name: Bayesian Statistics
+  weight: 3
+
+- name: (Un)Supervised Learning
+  weight: 2
+
+- name: Reinforcement Learning
+  weight: 3
+
+- name: ML on Big Data
+  weight: 2

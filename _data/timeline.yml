@@ -17,45 +17,79 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: University Hospital Frankfurt
+  title-url: https://racoon.network/
+  date: July 2022 - Present
+  subtitle: Medical Computer Scientist
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Image Segmentation
+    - tag: Statistics
+    - tag: Infrastructure Management
+    - tag: Python
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Nexustec Gmbh
+  title-url: https://nexustec.eu/en/
+  date: Dec 2021 - April 2022
+  subtitle: Machine Learning Engineer
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Object Detection
+    - tag: Machine Vision
+    - tag: C++
+    - tag: Python
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Turing Talent
+  title-url: https://turingtalent.org/
+  date: Nov 2021 - Jan 2022
+  subtitle: Data Science Consultant
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Clustering
+    - tag: Classification
+    - tag: Statistical Analysis
+    - tag: Python
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Envigo
+  title-url: https://www.envigo.co.uk/
+  date: July 2021 - Nov 2021
+  subtitle: Data Science Consultant
+  tags:
+    - tag: Marketing Intelligence
+    - tag: NLP
+    - tag: SEO
+    - tag: Python
+  timeline-side: left
+
+- title: Glance
+  title-url: https://www.glance.com/
+  date: Dec 2020 - June 2021
+  subtitle: Student Data Scientist
+  tags:
+    - tag: Computer Vision
+    - tag: Recommendation System
+    - tag: Object Detection
+    - tag: Action Recognition
+  timeline-side: right
+
+- title: Linköping University
+  title-url: https://liu.se/en
+  date: 2019 - 2021
+  subtitle: M.Sc. Statistics and Machine Learning
+  timeline-side: left
+
+- title: Amazon
+  title-url: https://www.amazon.com/
+  date: March 2016 - July 2019
+  subtitle: Training Specialist
+  tags:
+    - tag: Alexa
+    - tag: Kindle
+    - tag: Amazon App store
+  timeline-side: right
+
+- title: SCSVMV University
+  title-url: https://kanchiuniv.ac.in/
+  date: 2010 - 2014
+  subtitle: B.E. Electronics and Communication Engineering
   timeline-side: left
